@@ -1,0 +1,16 @@
+{
+  "name": "black-white-troposhere-lambda-sharp",
+  "version": "1.0.0",
+  "description": "black-white-troposhere-lambda-sharp",
+  "repository": "black-white-troposhere-lambda-sharp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.23.4"
+  }
+}
